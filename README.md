@@ -1,6 +1,6 @@
 # 🎨 341 Effects Screensaver - LilyGO T-QT Pro Port
 
-**The complete XScreenSaver 341 effects collection ported to the LilyGO T-QT Pro ESP32-S3 tiny display!**
+**My complete XScreenSaver 341 effects collection ported to the LilyGO T-QT Pro ESP32-S3 tiny display!**
 
 ![T-QT Pro 341 Effects](https://img.shields.io/badge/Effects-341-brightgreen) ![Platform](https://img.shields.io/badge/Platform-ESP32--S3-blue) ![Display](https://img.shields.io/badge/Display-128x128%20GC9A01-orange) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -172,8 +172,9 @@ BOXED, BOXFIT, BRAID, BSOD, B_SPHERE, BUBBLE3D, BUILDLWO, BUMPS, CAGE, CAROUSEL,
 </details>
 
 ## 📄 License
+License & Attribution This project ports effects originally from XScreensaver by Jamie Zawinski and contributors. The XScreensaver license permits modification and distribution for non-Windows platforms.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Original XScreensaver: https://www.jwz.org/xscreensaver/ License: MIT-compatible (no Windows restriction clause applies)
 
 ## 🙏 Acknowledgments
 
